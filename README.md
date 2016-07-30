@@ -7,6 +7,7 @@ npm i
 gulp 
 
 # bulid project
+gulp prod
 ```
 
 ## 产生式
